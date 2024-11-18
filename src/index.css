@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.tableBlock {
+  width: 50%;
+  margin: 10px auto;
+}
+
+thead, tr, td {
+  border: 1px solid black;
+}
+
+.reverseBtn{
+  margin: 25px;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
